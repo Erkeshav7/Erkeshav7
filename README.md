@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Keshav Goswami ,I am a B.Tech Graduate of 2022 Batch and I am a software development enthusiast and a passionate learner.
-- 👀 I’m interested in  Python,Software Development,Data Engineering,Machine learning.
-- 🌱 I am currently working on Web Technologies and I have relevant skills like HTML,CSS,JavaScript. I’have understanding of  Data Science,machine learning and SQL. 
+- 👋 Hi, I’m Keshav Goswami ,I am a B.Tech Graduate of 2022 Batch and I am a Data Engineering enthusiast and a passionate learner.
+- 👀 I’m interested in  Python,Data Engineering,Data Science,Machine learning.
+- 🌱 I am currently working in the domain of Big Data Engineering and I have relevant skills like Python,spark,hadoop,sql,azure. I’have understanding of  Data Science,machine learning and SQL. 
 - 💞️ I’m looking to collaborate on GitHub, Linkedin.
 - 📫 You Can Connect Me on LinkedIn with https://www.linkedin.com/in/keshav94104/
 
