@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Keshav Goswami ,I am a B.Tech Graduate of 2022 Batch and I am a Data Engineering enthusiast and a passionate learner.
-- 🌱 I am currently working in the domain of Big Data Engineering and I have relevant skills like Python,spark,hadoop,sql,azure. I’have understanding of  Data Science,machine learning and SQL.
-- - 👀 I’m interested in  Python,Data Engineering,Data Science,Machine learning.
+- 👋 Hi, I’m Keshav Goswami ,I am a Data Engineer working at Cognizant.
+- 🌱 I am currently exploring and working in the world of  Big Data and during my data engineering journey I have got the chance to work on some amazing big data tools and technologies like Python,spark,hadoop,sql,datalake,Airflow. I alos have understanding of cloud services like azure ADLS, AWS S3, AZURE DataFactory, Databricks.
+- - 👀 I’m interested in  Data Engineering,Data Science,Machine learning.
 - 💞️ I’m looking to collaborate on GitHub, Linkedin.
 - 📫 You Can Connect Me on LinkedIn with https://www.linkedin.com/in/keshav94104/
 
